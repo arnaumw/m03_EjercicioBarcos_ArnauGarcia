@@ -19,11 +19,11 @@ public abstract class BarcoDeMercancia extends Barco {
     }
     
     public void arranca() {
-        System.out.println("Arrancando BARCO DE PASAJEROS...");
+        System.out.println("Arrancando BARCO DE MERCANCIA...");
     }
     
     public void atraca() {
-        System.out.println("Atracando BARCO DE PASAJEROS...");
+        System.out.println("Atracando BARCO DE MERCANCIA...");
     }
     
     @Override
